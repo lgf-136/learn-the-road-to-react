@@ -17,3 +17,6 @@ You can open up any PR that corrects spelling or explains a certain lesson with 
 In addition, you can open Issues when you run into problems. In order to make the fix for the Issue as easy as possible, please provide a couple of details such as error log, screenshot, which page of the book it happened, your node version (command line: `node -v`) and a link to your own repository. Not all of these details are mandatory, but most of them help to fix the Issue and to improve the book.
 
 Thanks a lot for your help!
+
+
+bilibili 配套视频： https://space.bilibili.com/38563775/video?tid=0&page=2&keyword=&order=pubdate
